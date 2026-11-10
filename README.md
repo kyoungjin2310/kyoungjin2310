@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=1F2937&height=120&text=Kyoungjin%20Oh&fontSize=36&fontColor=F9FAFB&fontAlign=17&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Seoul&descSize=14&descAlign=13.6&descAlignY=66" width="100%" alt="Kyoungjin Oh — Frontend Developer"/>
+<img src="./assets/banner.svg" width="100%" alt="Kyoungjin Oh — Frontend Developer"/>
 
 **Ship &amp; Operate**<br/>
 공개 서비스를 약 20개월간 주간 배포로 운영하며, 출시 이후의 개선까지 맡아왔습니다.
