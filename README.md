@@ -11,16 +11,16 @@
 
 <br/>
 
-**Stack**<br/>
-<img src="https://img.shields.io/badge/React-4B5563?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-4B5563?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-4B5563?style=flat&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-4B5563?style=flat&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-4B5563?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Query-4B5563?style=flat&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-4B5563?style=flat&logo=tailwindcss&logoColor=white"/>
+**Stack** &nbsp;
+<img align="absmiddle" src="https://img.shields.io/badge/React-4B5563?style=flat&logo=react&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/TypeScript-4B5563?style=flat&logo=typescript&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/Redux_Toolkit-4B5563?style=flat&logo=redux&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/styled--components-4B5563?style=flat&logo=styledcomponents&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/Next.js-4B5563?style=flat&logo=nextdotjs&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/TanStack_Query-4B5563?style=flat&logo=reactquery&logoColor=white"/>
+<img align="absmiddle" src="https://img.shields.io/badge/Tailwind_CSS-4B5563?style=flat&logo=tailwindcss&logoColor=white"/>
 
-**Contact**<br/>
-<a href="https://kyoungjin2310.github.io/profile/"><img src="https://img.shields.io/badge/Portfolio-4B5563?style=flat&logo=githubpages&logoColor=white"/></a>
-<a href="mailto:kyoungjin2310@gmail.com"><img src="https://img.shields.io/badge/Email-4B5563?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://velog.io/@okj2310"><img src="https://img.shields.io/badge/Velog-4B5563?style=flat&logo=velog&logoColor=white"/></a>
+**Contact** &nbsp;
+<a href="https://kyoungjin2310.github.io/profile/"><img align="absmiddle" src="https://img.shields.io/badge/Portfolio-4B5563?style=flat&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:kyoungjin2310@gmail.com"><img align="absmiddle" src="https://img.shields.io/badge/Email-4B5563?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@okj2310"><img align="absmiddle" src="https://img.shields.io/badge/Velog-4B5563?style=flat&logo=velog&logoColor=white"/></a>
