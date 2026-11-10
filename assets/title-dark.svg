@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="170" viewBox="0 0 800 170" role="img" aria-labelledby="title">
-  <title id="title">Kyoungjin Oh — Frontend Developer</title>
-  <g font-family="Pretendard, -apple-system, 'Segoe UI', 'Noto Sans KR', Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="400" y="70" font-size="44" font-weight="600" letter-spacing="-0.5" fill="#F3F4F6">Kyoungjin Oh</text>
-    <rect x="384" y="88" width="32" height="2" fill="#93C5FD"/>
-    <text x="400" y="126" font-size="16" font-weight="400" fill="#9CA3AF">Frontend Developer · Seoul</text>
-  </g>
-</svg>

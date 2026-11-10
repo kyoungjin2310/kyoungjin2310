@@ -1,9 +1,4 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
-    <img src="./assets/title-light.svg" alt="Kyoungjin Oh — Frontend Developer" width="600">
-  </picture>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=140&text=Kyoungjin%20Oh&fontSize=40&fontColor=F9FAFB&fontAlignY=42&desc=Frontend%20Developer&descSize=16&descAlignY=68" width="100%" alt="Kyoungjin Oh — Frontend Developer"/>
 
 <br/>
 
@@ -21,9 +16,6 @@
 <img src="https://img.shields.io/badge/Next.js-4B5563?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack_Query-4B5563?style=flat-square&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-4B5563?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-### Blog
-<a href="https://velog.io/@okj2310"><img src="https://velog-readme-stats.vercel.app/api?name=okj2310"/></a>
 
 ### Contact
 <a href="https://kyoungjin2310.github.io/profile/"><img src="https://img.shields.io/badge/Portfolio-4B5563?style=flat-square&logo=githubpages&logoColor=white"/></a>
