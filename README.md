@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=160&section=header&text=Kyoungjin%20Oh&fontSize=40&fontColor=ffffff" width="100%"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
+    <img src="./assets/title-light.svg" alt="Kyoungjin Oh — Frontend Developer" width="600">
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
 
